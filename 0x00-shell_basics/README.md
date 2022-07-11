@@ -1,9 +1,30 @@
-0-A script that prints the absolute path name of working directory
+0-current_working_directory
 
-1-Displaying the contents of working directory
+1-listit
 
-2-Changing the current directory
+2-bring_me_home
 
-3-Display contents
+3-listfiles
 
-4-Displaying contents
+4-listmorefiles
+
+5-listfilesdigitonly
+
+6-firstdirectory
+
+7-movethatfile
+
+8-firstdelete
+
+9-firstdirdeletion
+
+10-back
+
+11-lists
+
+12-file_type
+
+13-symbolic_link
+
+14-copy_html
+
